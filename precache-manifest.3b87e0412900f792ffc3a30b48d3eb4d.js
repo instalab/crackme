@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1f950b60ea9560a8ff8a",
+    "revision": "3ae9f9b36fa633e00364",
     "url": "/crackme/static/css/main.f94cfe51.chunk.css"
   },
   {
-    "revision": "1f950b60ea9560a8ff8a",
-    "url": "/crackme/static/js/main.1f950b60.chunk.js"
+    "revision": "3ae9f9b36fa633e00364",
+    "url": "/crackme/static/js/main.3ae9f9b3.chunk.js"
   },
   {
     "revision": "abeb2df6f748e55443c2",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/crackme/static/media/beer.977c8584.jpg"
   },
   {
-    "revision": "50e497553bfd4faf24f0b1c5987e1546",
+    "revision": "b5b905d04e906472f162834dbb975d3a",
     "url": "/crackme/index.html"
   }
 ];
